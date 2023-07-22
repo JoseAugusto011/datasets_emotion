@@ -1,0 +1,25 @@
+[gd_scene load_steps=2 format=3 uid="uid://cpwqgqmu2tt0n"]
+
+[ext_resource type="Texture2D" path="res://fundo_novo.dds" id="1_jueui"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Camera3D" type="Camera3D" parent="."]
+
+[node name="Sprite3D" type="Sprite3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.1)
+pixel_size = 0.001
+texture = ExtResource("1_jueui")
+region_rect = Rect2(0, 0, 95.5, 76)
+
+[node name="Sprite3D2" type="Sprite3D" parent="."]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, -0.48, 0, 0)
+texture = ExtResource("1_jueui")
+
+[node name="Sprite3D3" type="Sprite3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0.48)
+texture = ExtResource("1_jueui")
+
+[node name="Sprite3D4" type="Sprite3D" parent="."]
+transform = Transform3D(-4.37114e-08, 0, 0.999999, 0, 1, 0, -1, 0, -4.37113e-08, 0.48, 0, 0)
+texture = ExtResource("1_jueui")
