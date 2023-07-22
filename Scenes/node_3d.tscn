@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://cpwqgqmu2tt0n"]
 
-[ext_resource type="Texture2D" path="res://fundo_novo.dds" id="1_jueui"]
+[ext_resource type="Texture2D" path="res://Tiles/fundo_novo.dds" id="1_jueui"]
 
 [node name="Node3D" type="Node3D"]
 

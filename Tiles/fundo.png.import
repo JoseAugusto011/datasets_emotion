@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1kdjs6mm3kqf"
-path.s3tc="res://.godot/imported/fundo.png-f9fbcbdbc60f772e394ba2c913e799d2.s3tc.ctex"
+path.s3tc="res://.godot/imported/fundo.png-1ba46b02d97af61d5a34e4ab53a462f3.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://fundo.png"
-dest_files=["res://.godot/imported/fundo.png-f9fbcbdbc60f772e394ba2c913e799d2.s3tc.ctex"]
+source_file="res://Tiles/fundo.png"
+dest_files=["res://.godot/imported/fundo.png-1ba46b02d97af61d5a34e4ab53a462f3.s3tc.ctex"]
 
 [params]
 
