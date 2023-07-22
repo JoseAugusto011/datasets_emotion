@@ -1,11 +1,11 @@
 2a60927148abd1d33b818b535e306557
-::res://::1690031572
+::res://::1690059350
 icon.svg::CompressedTexture2D::4644853398523377848::1690030595::1690031452::1::::<><>::
 README.md::TextFile::-1::1690030595::0::1::::<><>::
-::res://Player/::1690031191
-Camera2D.gd::GDScript::-1::1690030595::0::1::::<>Camera2D<>::
-::res://Scenes/::1690031526
-node_2d.tscn::PackedScene::5486255809471676596::1690031526::0::1::::<><>::uid://c626pjnahgohb<>res://Camera2D.gd
+::res://Player/::1690036766
+Camera2D.gd::GDScript::-1::1690036766::0::1::::<>Camera2D<>::
+::res://Scenes/::1690035538
+node_2d.tscn::PackedScene::5486255809471676596::1690035538::0::1::::<><>::uid://c626pjnahgohb<>res://Player/Camera2D.gd
 node_3d.tscn::PackedScene::5872073379050510195::1690031526::0::1::::<><>::res://Tiles/fundo_novo.dds
 ::res://Tiles/::1690031452
 fundo.png::CompressedTexture2D::4232173612817597485::1690030595::1690031452::1::::<><>::
